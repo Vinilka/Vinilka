@@ -5,7 +5,7 @@ I specialize in **JavaScript-based development**, and I’m now actively focusin
 
 ---
 
-### 💼 Background
+## 💼 Background
 
 - 3+ years in **test automation** and quality engineering
 - Strong experience with **Playwright**, **Robot Framework**, and **API automation**
@@ -14,7 +14,7 @@ I specialize in **JavaScript-based development**, and I’m now actively focusin
 
 ---
 
-### 🧩 Projects
+## 🧩 Projects
 
 - 🎮 [Tic-Tac-Toe](#) – Classic game built with JavaScript and CSS animations
 - 🔢 [Guess the Number](#) – Number guessing game with interactive logic
@@ -23,7 +23,7 @@ I specialize in **JavaScript-based development**, and I’m now actively focusin
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend:**  
 HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS, Bootstrap
@@ -39,15 +39,15 @@ Figma, Canva, Agile/Scrum, Bash (basic), English (C1)
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - Node.js Developer Certification – Packt
 
 ---
 
-### 🔗 Let's Connect
+## 🔗 Let's Connect
 
-- 💼 LinkedIn (coming soon)
+- 💼 LinkedIn (https://www.linkedin.com/in/anastasiavi/)
 - 📨 Email or Telegram upon request
 
 ---
