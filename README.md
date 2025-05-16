@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Anastasia 👋
 
-<!--
-**Vinilka/Vinilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer in transition**, currently working as an **Automation Engineer at MSD** with a strong background in building test automation solutions.  
+I specialize in **JavaScript-based development**, and I’m now actively focusing on **React** to move deeper into the frontend world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Background
+
+- 3+ years in **test automation** and quality engineering
+- Strong experience with **Playwright**, **Robot Framework**, and **API automation**
+- Comfortable working in cross-functional Agile teams
+- Passionate about creating modern, responsive, and intuitive UIs
+
+---
+
+### 🧩 Projects
+
+- 🎮 [Tic-Tac-Toe](#) – Classic game built with JavaScript and CSS animations
+- 🔢 [Guess the Number](#) – Number guessing game with interactive logic
+- 🚐 [Bus App](#) – Real-world transport booking app for a family business (React)
+- 🧱 [Portfolio Website](#) – Personal site built with React (in progress)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS, Bootstrap
+
+**Automation & QA:**  
+Playwright, Robot Framework, Postman, REST APIs, Jira, Xray
+
+**Backend & Tools:**  
+Node.js, Express (basic), Git, GitHub, NPM, VS Code, CI/CD basics
+
+**Other:**  
+Figma, Canva, Agile/Scrum, Bash (basic), English (C1)
+
+---
+
+### 📜 Certifications
+
+- Node.js Developer Certification – Packt
+
+---
+
+### 🔗 Let's Connect
+
+- 💼 LinkedIn (coming soon)
+- 📨 Email or Telegram upon request
+
+---
+
+> I'm combining my testing experience with strong frontend skills to build high-quality, production-ready user interfaces.
+
