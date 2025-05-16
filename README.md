@@ -16,7 +16,7 @@ I specialize in **JavaScript-based development**, and I’m now actively focusin
 
 ## 🧩 Projects
 
-- 🎮 [Tic-Tac-Toe](#) – Classic game built with JavaScript and CSS animations
+- 🎮 [Tic-Tac-Toe](https://github.com/Vinilka/TIC-TOE-GAME) – Classic game built with JavaScript and CSS animations
 - 🔢 [Guess the Number](#) – Number guessing game with interactive logic
 - 🚐 [Bus App](#) – Real-world transport booking app for a family business (React)
 - 🧱 [Portfolio Website](#) – Personal site built with React (in progress)
